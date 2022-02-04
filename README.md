@@ -47,3 +47,5 @@ This is a console app that displays "Hello Daphne!" to the screen.
 This is a console app that takes user input and greets the user by saying Hello and whatever the name is they entered.
 
 ![image](https://github.com/thisislink/csharpmastery/blob/main/Assets/GreeterReadmeAssets/greeter.png?raw=true)
+
+[Back to Top](https://github.com/thisislink/csharpmastery#projects)
