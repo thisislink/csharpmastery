@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\linkdap\\OneDrive - C.H. Robinson\\Desktop\\Projects\\HelloDaphne\\HelloDaphne.csproj": {}
+    "C:\\Users\\linkdap\\OneDrive - C.H. Robinson\\Desktop\\Projects\\csharpmastery\\csharpmastery\\HelloDaphne\\HelloDaphne.csproj": {}
   },
   "projects": {
-    "C:\\Users\\linkdap\\OneDrive - C.H. Robinson\\Desktop\\Projects\\HelloDaphne\\HelloDaphne.csproj": {
+    "C:\\Users\\linkdap\\OneDrive - C.H. Robinson\\Desktop\\Projects\\csharpmastery\\csharpmastery\\HelloDaphne\\HelloDaphne.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\linkdap\\OneDrive - C.H. Robinson\\Desktop\\Projects\\HelloDaphne\\HelloDaphne.csproj",
+        "projectUniqueName": "C:\\Users\\linkdap\\OneDrive - C.H. Robinson\\Desktop\\Projects\\csharpmastery\\csharpmastery\\HelloDaphne\\HelloDaphne.csproj",
         "projectName": "HelloDaphne",
-        "projectPath": "C:\\Users\\linkdap\\OneDrive - C.H. Robinson\\Desktop\\Projects\\HelloDaphne\\HelloDaphne.csproj",
+        "projectPath": "C:\\Users\\linkdap\\OneDrive - C.H. Robinson\\Desktop\\Projects\\csharpmastery\\csharpmastery\\HelloDaphne\\HelloDaphne.csproj",
         "packagesPath": "C:\\Users\\linkdap\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\linkdap\\OneDrive - C.H. Robinson\\Desktop\\Projects\\HelloDaphne\\obj\\",
+        "outputPath": "C:\\Users\\linkdap\\OneDrive - C.H. Robinson\\Desktop\\Projects\\csharpmastery\\csharpmastery\\HelloDaphne\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
