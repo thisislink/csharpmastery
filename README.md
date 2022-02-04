@@ -8,7 +8,7 @@ This is a list of projects created to re-inforce learning C# concepts.
 
 | Table of Contents                                                                    |
 | ------------------------------------------------------------------------------------ |
-| Project 1 - [Hello Daphne](https://github.com/thisislink/csharpmastery#hello-daphne) |
+| Project 1 - [Hello Daphne](https://github.com/thisislink/csharpmastery#project-1---hello-daphne) |
 | Project 2 -                                                                          |
 | Project 3 -                                                                          |
 | Project 4 -                                                                          |
