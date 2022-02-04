@@ -18,8 +18,15 @@ This is a console app that displays "Hello Daphne!" to the screen.
 
    - Press the F5 key on your keyboard
    - Click the green play button on the toolbar next to the name of the project HelloDaphne
+
+     ![image](https://github.com/thisislink/csharpmastery/blob/main/Assets/HelloDaphneReadmeAssets/play-button.png?raw=true)
+
    - From the menu, click Debug > Start Debugging
 
-     ![image]()
+     ![image](https://github.com/thisislink/csharpmastery/blob/main/Assets/HelloDaphneReadmeAssets/start-debugging.png?raw=true)
+
+4. The console window will launch and display "Hello Daphne!" on the screen.
+
+   ![image](https://github.com/thisislink/csharpmastery/blob/main/Assets/HelloDaphneReadmeAssets/console-window.png?raw=true)
 
 ###
