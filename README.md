@@ -6,25 +6,21 @@ Repo to brush up on C# using the C# YouTube course by [Bro Code](https://www.you
 
 This is a list of projects created to re-inforce learning C# concepts.
 
-| Table of Contents                                                                    |
-| ------------------------------------------------------------------------------------ |
+| Table of Contents                                                                                |
+| ------------------------------------------------------------------------------------------------ |
 | Project 1 - [Hello Daphne](https://github.com/thisislink/csharpmastery#project-1---hello-daphne) |
-| Project 2 -                                                                          |
-| Project 3 -                                                                          |
-| Project 4 -                                                                          |
-| Project 5 -                                                                          |
-| Project 6 -                                                                          |
-| Project 7 -                                                                          |
-| Project 8 -                                                                          |
+| Project 2 - [Greeter](https://github.com/thisislink/csharpmastery#project-2---greeter)           |
+| Project 3 -                                                                                      |
+| Project 4 -                                                                                      |
+| Project 5 -                                                                                      |
+| Project 6 -                                                                                      |
+| Project 7 -                                                                                      |
+| Project 8 -                                                                                      |
 
-### Project 1 - Hello Daphne
-
-This is a console app that displays "Hello Daphne!" to the screen.
-
-#### Running the App
+## Running the Projects
 
 1. Clone the [csharpmastery](https://github.com/thisislink/csharpmastery.git) repository
-2. Within the HelloDaphne directory, open the HelloDaphne.sln file in Visual Studio.
+2. Open the project directory you would like to demo, then open the .sln file in Visual Studio. An example .sln file would be HelloDaphne.sln that is found in the HelloDaphne directory.
 3. In Visual Studio, run the application by doing one of the following options:
 
    - Press the F5 key on your keyboard
@@ -36,8 +32,16 @@ This is a console app that displays "Hello Daphne!" to the screen.
 
      ![image](https://github.com/thisislink/csharpmastery/blob/main/Assets/HelloDaphneReadmeAssets/start-debugging.png?raw=true)
 
-4. The console window will launch and display "Hello Daphne!" on the screen.
+4. The console window will launch and display output on the screen.
 
-   ![image](https://github.com/thisislink/csharpmastery/blob/main/Assets/HelloDaphneReadmeAssets/console-window.png?raw=true)
+### Project 1 - Hello Daphne
 
-### Project 2
+This is a console app that displays "Hello Daphne!" to the screen.
+
+![image](https://github.com/thisislink/csharpmastery/blob/main/Assets/HelloDaphneReadmeAssets/console-window.png?raw=true)
+
+[Back to Top](https://github.com/thisislink/csharpmastery#projects)
+
+### Project 2 - Greeter
+
+This is a console app that takes user input and greets the user by saying Hello and whatever the name is they entered.
