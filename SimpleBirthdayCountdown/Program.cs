@@ -21,7 +21,7 @@ namespace SimpleBirthdayCountdown
             //Display message based on days until user's birthday
             if(daysUntilBirthday < 0)
             {
-                Console.WriteLine("Your birthday already passed. Happy belated birthday!");
+                Console.WriteLine("Your birthday already passed this year. Happy belated birthday!");
             } else if (daysUntilBirthday == 0)
             {
                 Console.WriteLine("Oh wow, your birthday is today! Happy birthday!");
