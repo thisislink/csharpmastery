@@ -11,8 +11,8 @@ This is a list of projects created to re-inforce learning C# concepts.
 | Project 1 - [Hello Daphne](https://github.com/thisislink/csharpmastery#project-1---hello-daphne)                           |
 | Project 2 - [Greeter](https://github.com/thisislink/csharpmastery#project-2---greeter)                                     |
 | Project 3 - [Simple Birthday Countdown](https://github.com/thisislink/csharpmastery#project-3---simple-birthday-countdown) |
-| Project 4 -                                                                                                                |
-| Project 5 -                                                                                                                |
+| Project 4 - [Simple Birthday Countdown](https://github.com/thisislink/csharpmastery#project-4---random-numbers)            |
+| Project 5 - [Simple Birthday Countdown](https://github.com/thisislink/csharpmastery#project-5---roll-dice)                 |
 | Project 6 -                                                                                                                |
 | Project 7 -                                                                                                                |
 | Project 8 -                                                                                                                |
@@ -59,5 +59,21 @@ This is a console app that asks for a month and day and outputs a specific happy
 ![image](https://github.com/thisislink/csharpmastery/blob/main/Assets/SimpleBirthdayCountdownAssets/birthday-today.png?raw=true)
 
 ![image](https://github.com/thisislink/csharpmastery/blob/main/Assets/SimpleBirthdayCountdownAssets/future-birthday.png?raw=true)
+
+[Back to Top](https://github.com/thisislink/csharpmastery#projects)
+
+### Project 4 - Random Numbers
+
+This is a console app that generates a pseudo-random number between 1 and any number of the user's choosing.
+
+![image](https://github.com/thisislink/csharpmastery/blob/main/Assets/RandomNumbersAssets/random-numbers.png?raw=true)
+
+[Back to Top](https://github.com/thisislink/csharpmastery#projects)
+
+### Project 5 - Roll Dice
+
+This is a console app that asks if a user wants to roll a die. The app will randomly generate a number between 1 and 6, in order to simulate one die rolling. The app runs as long as the user wants to continue rolling the die.
+
+![image](https://github.com/thisislink/csharpmastery/blob/main/Assets/RollDiceAssets/rolldice.png?raw=true)
 
 [Back to Top](https://github.com/thisislink/csharpmastery#projects)
