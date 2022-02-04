@@ -6,7 +6,18 @@ Repo to brush up on C# using the C# YouTube course by [Bro Code](https://www.you
 
 This is a list of projects created to re-inforce learning C# concepts.
 
-### Hello Daphne
+| Table of Contents                                                                    |
+| ------------------------------------------------------------------------------------ |
+| Project 1 - [Hello Daphne](https://github.com/thisislink/csharpmastery#hello-daphne) |
+| Project 2 -                                                                          |
+| Project 3 -                                                                          |
+| Project 4 -                                                                          |
+| Project 5 -                                                                          |
+| Project 6 -                                                                          |
+| Project 7 -                                                                          |
+| Project 8 -                                                                          |
+
+### Project 1 - Hello Daphne
 
 This is a console app that displays "Hello Daphne!" to the screen.
 
@@ -29,4 +40,4 @@ This is a console app that displays "Hello Daphne!" to the screen.
 
    ![image](https://github.com/thisislink/csharpmastery/blob/main/Assets/HelloDaphneReadmeAssets/console-window.png?raw=true)
 
-###
+### Project 2
