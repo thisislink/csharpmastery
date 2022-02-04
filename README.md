@@ -49,3 +49,15 @@ This is a console app that takes user input and greets the user by saying Hello 
 ![image](https://github.com/thisislink/csharpmastery/blob/main/Assets/GreeterReadmeAssets/greeter.png?raw=true)
 
 [Back to Top](https://github.com/thisislink/csharpmastery#projects)
+
+### Project 3 - Simple Birthday Countdown
+
+This is a console app that asks for a month and day and outputs a specific happy birthday message depending on the values entered. If the birthday is yet to pass, the app displays how many days until the user's birthday.
+
+![image](https://github.com/thisislink/csharpmastery/blob/main/Assets/SimpleBirthdayCountdownAssets/birthday-passed.png?raw=true)
+
+![image](https://github.com/thisislink/csharpmastery/blob/main/Assets/SimpleBirthdayCountdownAssets/birthday-today.png?raw=true)
+
+![image](https://github.com/thisislink/csharpmastery/blob/main/Assets/SimpleBirthdayCountdownAssets/future-birthday.png?raw=true)
+
+[Back to Top](https://github.com/thisislink/csharpmastery#projects)
