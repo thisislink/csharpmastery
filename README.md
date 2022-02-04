@@ -6,16 +6,16 @@ Repo to brush up on C# using the C# YouTube course by [Bro Code](https://www.you
 
 This is a list of projects created to re-inforce learning C# concepts.
 
-| Table of Contents                                                                                |
-| ------------------------------------------------------------------------------------------------ |
-| Project 1 - [Hello Daphne](https://github.com/thisislink/csharpmastery#project-1---hello-daphne) |
-| Project 2 - [Greeter](https://github.com/thisislink/csharpmastery#project-2---greeter)           |
-| Project 3 -                                                                                      |
-| Project 4 -                                                                                      |
-| Project 5 -                                                                                      |
-| Project 6 -                                                                                      |
-| Project 7 -                                                                                      |
-| Project 8 -                                                                                      |
+| Table of Contents                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------------- |
+| Project 1 - [Hello Daphne](https://github.com/thisislink/csharpmastery#project-1---hello-daphne)                           |
+| Project 2 - [Greeter](https://github.com/thisislink/csharpmastery#project-2---greeter)                                     |
+| Project 3 - [Simple Birthday Countdown](https://github.com/thisislink/csharpmastery#project-3---simple-birthday-countdown) |
+| Project 4 -                                                                                                                |
+| Project 5 -                                                                                                                |
+| Project 6 -                                                                                                                |
+| Project 7 -                                                                                                                |
+| Project 8 -                                                                                                                |
 
 ## Running the Projects
 
@@ -47,3 +47,17 @@ This is a console app that displays "Hello Daphne!" to the screen.
 This is a console app that takes user input and greets the user by saying Hello and whatever the name is they entered.
 
 ![image](https://github.com/thisislink/csharpmastery/blob/main/Assets/GreeterReadmeAssets/greeter.png?raw=true)
+
+[Back to Top](https://github.com/thisislink/csharpmastery#projects)
+
+### Project 3 - Simple Birthday Countdown
+
+This is a console app that asks for a month and day and outputs a specific happy birthday message depending on the values entered. If the birthday is yet to pass, the app displays how many days until the user's birthday.
+
+![image](https://github.com/thisislink/csharpmastery/blob/main/Assets/SimpleBirthdayCountdownAssets/birthday-passed.png?raw=true)
+
+![image](https://github.com/thisislink/csharpmastery/blob/main/Assets/SimpleBirthdayCountdownAssets/birthday-today.png?raw=true)
+
+![image](https://github.com/thisislink/csharpmastery/blob/main/Assets/SimpleBirthdayCountdownAssets/future-birthday.png?raw=true)
+
+[Back to Top](https://github.com/thisislink/csharpmastery#projects)
