@@ -6,16 +6,16 @@ Repo to brush up on C# using the C# YouTube course by [Bro Code](https://www.you
 
 This is a list of projects created to re-inforce learning C# concepts.
 
-| Table of Contents                                                                                |
-| ------------------------------------------------------------------------------------------------ |
-| Project 1 - [Hello Daphne](https://github.com/thisislink/csharpmastery#project-1---hello-daphne) |
-| Project 2 - [Greeter](https://github.com/thisislink/csharpmastery#project-2---greeter)           |
-| Project 3 -                                                                                      |
-| Project 4 -                                                                                      |
-| Project 5 -                                                                                      |
-| Project 6 -                                                                                      |
-| Project 7 -                                                                                      |
-| Project 8 -                                                                                      |
+| Table of Contents                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------------- |
+| Project 1 - [Hello Daphne](https://github.com/thisislink/csharpmastery#project-1---hello-daphne)                           |
+| Project 2 - [Greeter](https://github.com/thisislink/csharpmastery#project-2---greeter)                                     |
+| Project 3 - [Simple Birthday Countdown](https://github.com/thisislink/csharpmastery#project-3---simple-birthday-countdown) |
+| Project 4 -                                                                                                                |
+| Project 5 -                                                                                                                |
+| Project 6 -                                                                                                                |
+| Project 7 -                                                                                                                |
+| Project 8 -                                                                                                                |
 
 ## Running the Projects
 
