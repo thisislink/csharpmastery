@@ -11,8 +11,8 @@ This is a list of projects created to re-inforce learning C# concepts.
 | Project 1 - [Hello Daphne](https://github.com/thisislink/csharpmastery#project-1---hello-daphne)                           |
 | Project 2 - [Greeter](https://github.com/thisislink/csharpmastery#project-2---greeter)                                     |
 | Project 3 - [Simple Birthday Countdown](https://github.com/thisislink/csharpmastery#project-3---simple-birthday-countdown) |
-| Project 4 - [Simple Birthday Countdown](https://github.com/thisislink/csharpmastery#project-4---random-numbers)            |
-| Project 5 - [Simple Birthday Countdown](https://github.com/thisislink/csharpmastery#project-5---roll-dice)                 |
+| Project 4 - [Random Numbers](https://github.com/thisislink/csharpmastery#project-4---random-numbers)            |
+| Project 5 - [Roll Dice](https://github.com/thisislink/csharpmastery#project-5---roll-dice)                 |
 | Project 6 -                                                                                                                |
 | Project 7 -                                                                                                                |
 | Project 8 -                                                                                                                |
