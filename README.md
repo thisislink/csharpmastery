@@ -11,10 +11,10 @@ This is a list of projects created to re-inforce learning C# concepts.
 | Project 1 - [Hello Daphne](https://github.com/thisislink/csharpmastery#project-1---hello-daphne)                           |
 | Project 2 - [Greeter](https://github.com/thisislink/csharpmastery#project-2---greeter)                                     |
 | Project 3 - [Simple Birthday Countdown](https://github.com/thisislink/csharpmastery#project-3---simple-birthday-countdown) |
-| Project 4 - [Random Numbers](https://github.com/thisislink/csharpmastery#project-4---random-numbers)            |
-| Project 5 - [Roll Dice](https://github.com/thisislink/csharpmastery#project-5---roll-dice)                 |
-| Project 6 -                                                                                                                |
-| Project 7 -                                                                                                                |
+| Project 4 - [Random Numbers](https://github.com/thisislink/csharpmastery#project-4---random-numbers)                       |
+| Project 5 - [Roll Dice](https://github.com/thisislink/csharpmastery#project-5---roll-dice)                                 |
+| Project 6 - [List Movies](https://github.com/thisislink/csharpmastery#project-6---list-movies)                             |
+| Project 7 - [Friendly Robot Helper](https://github.com/thisislink/csharpmastery#project-7---friendly-robot-helper)         |
 | Project 8 -                                                                                                                |
 
 ## Running the Projects
@@ -74,6 +74,26 @@ This is a console app that generates a pseudo-random number between 1 and any nu
 
 This is a console app that asks if a user wants to roll a die. The app will randomly generate a number between 1 and 6, in order to simulate one die rolling. The app runs as long as the user wants to continue rolling the die.
 
+From a technical side, this app makes use of the switch statement.
+
 ![image](https://github.com/thisislink/csharpmastery/blob/main/Assets/RollDiceAssets/rolldice.png?raw=true)
+
+[Back to Top](https://github.com/thisislink/csharpmastery#projects)
+
+### Project 6 - List Movies
+
+This is a very simple console app that displays a list of movies on the screen.
+
+From a technical perspective, this app makes use of arrays.
+
+[Back to Top](https://github.com/thisislink/csharpmastery#projects)
+
+### Project 7 - Friendly Robot Helper
+
+This is a console app that simulates a Robot introducing themselves and performing some helpful tasks.
+
+From a technical perspective, this app makes use of classes, specifically a separate Robot class to introduce OOP.
+
+![image](https://github.com/thisislink/csharpmastery/blob/main/Assets/FriendlyRobotAssets/helper-robot-simple.png?raw=true)
 
 [Back to Top](https://github.com/thisislink/csharpmastery#projects)
