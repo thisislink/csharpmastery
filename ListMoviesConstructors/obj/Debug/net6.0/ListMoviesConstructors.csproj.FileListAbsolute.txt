@@ -1,0 +1,15 @@
+C:\Users\daphn\Desktop\Projects\csharpmastery\ListMoviesConstructors\bin\Debug\net6.0\ListMoviesConstructors.exe
+C:\Users\daphn\Desktop\Projects\csharpmastery\ListMoviesConstructors\bin\Debug\net6.0\ListMoviesConstructors.deps.json
+C:\Users\daphn\Desktop\Projects\csharpmastery\ListMoviesConstructors\bin\Debug\net6.0\ListMoviesConstructors.runtimeconfig.json
+C:\Users\daphn\Desktop\Projects\csharpmastery\ListMoviesConstructors\bin\Debug\net6.0\ListMoviesConstructors.dll
+C:\Users\daphn\Desktop\Projects\csharpmastery\ListMoviesConstructors\bin\Debug\net6.0\ref\ListMoviesConstructors.dll
+C:\Users\daphn\Desktop\Projects\csharpmastery\ListMoviesConstructors\bin\Debug\net6.0\ListMoviesConstructors.pdb
+C:\Users\daphn\Desktop\Projects\csharpmastery\ListMoviesConstructors\obj\Debug\net6.0\ListMoviesConstructors.csproj.AssemblyReference.cache
+C:\Users\daphn\Desktop\Projects\csharpmastery\ListMoviesConstructors\obj\Debug\net6.0\ListMoviesConstructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daphn\Desktop\Projects\csharpmastery\ListMoviesConstructors\obj\Debug\net6.0\ListMoviesConstructors.AssemblyInfoInputs.cache
+C:\Users\daphn\Desktop\Projects\csharpmastery\ListMoviesConstructors\obj\Debug\net6.0\ListMoviesConstructors.AssemblyInfo.cs
+C:\Users\daphn\Desktop\Projects\csharpmastery\ListMoviesConstructors\obj\Debug\net6.0\ListMoviesConstructors.csproj.CoreCompileInputs.cache
+C:\Users\daphn\Desktop\Projects\csharpmastery\ListMoviesConstructors\obj\Debug\net6.0\ListMoviesConstructors.dll
+C:\Users\daphn\Desktop\Projects\csharpmastery\ListMoviesConstructors\obj\Debug\net6.0\ref\ListMoviesConstructors.dll
+C:\Users\daphn\Desktop\Projects\csharpmastery\ListMoviesConstructors\obj\Debug\net6.0\ListMoviesConstructors.pdb
+C:\Users\daphn\Desktop\Projects\csharpmastery\ListMoviesConstructors\obj\Debug\net6.0\ListMoviesConstructors.genruntimeconfig.cache

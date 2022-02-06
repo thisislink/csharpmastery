@@ -15,7 +15,7 @@ This is a list of projects created to re-inforce learning C# concepts.
 | Project 5 - [Roll Dice](https://github.com/thisislink/csharpmastery#project-5---roll-dice)                                 |
 | Project 6 - [List Movies](https://github.com/thisislink/csharpmastery#project-6---list-movies)                             |
 | Project 7 - [Friendly Robot Helper](https://github.com/thisislink/csharpmastery#project-7---friendly-robot-helper)         |
-| Project 8 -                                                                                                                |
+| Project 8 - [List Movies Constructors](https://github.com/thisislink/csharpmastery#project-8---list-movies-constructors) |
 
 ## Running the Projects
 
@@ -95,5 +95,19 @@ This is a console app that simulates a Robot introducing themselves and performi
 From a technical perspective, this app makes use of classes, specifically a separate Robot class to introduce OOP.
 
 ![image](https://github.com/thisislink/csharpmastery/blob/main/Assets/FriendlyRobotAssets/helper-robot-simple.png?raw=true)
+
+[Back to Top](https://github.com/thisislink/csharpmastery#projects)
+
+### Project 8 - List Movies Constructors
+
+In this console app, you are a movie distributor and a casting director.
+
+So, you are tasked with coming up with a movie title, the year the movie will release and casting people to act in your movie(s).
+
+<ins>Technical decisions</ins>
+
+App makes use of a separate Movie class, a Movie constructor, and a list to store a list of cast members.
+
+![image](https://github.com/thisislink/csharpmastery/blob/main/Assets/ListMoviesConstructorsAssets/list-movies-constructors.png?raw=true)
 
 [Back to Top](https://github.com/thisislink/csharpmastery#projects)
