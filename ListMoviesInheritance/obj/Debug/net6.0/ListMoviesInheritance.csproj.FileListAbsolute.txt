@@ -1,0 +1,15 @@
+C:\Users\daphn\Desktop\Projects\csharpmastery\ListMoviesInheritance\bin\Debug\net6.0\ListMoviesInheritance.exe
+C:\Users\daphn\Desktop\Projects\csharpmastery\ListMoviesInheritance\bin\Debug\net6.0\ListMoviesInheritance.deps.json
+C:\Users\daphn\Desktop\Projects\csharpmastery\ListMoviesInheritance\bin\Debug\net6.0\ListMoviesInheritance.runtimeconfig.json
+C:\Users\daphn\Desktop\Projects\csharpmastery\ListMoviesInheritance\bin\Debug\net6.0\ListMoviesInheritance.dll
+C:\Users\daphn\Desktop\Projects\csharpmastery\ListMoviesInheritance\bin\Debug\net6.0\ref\ListMoviesInheritance.dll
+C:\Users\daphn\Desktop\Projects\csharpmastery\ListMoviesInheritance\bin\Debug\net6.0\ListMoviesInheritance.pdb
+C:\Users\daphn\Desktop\Projects\csharpmastery\ListMoviesInheritance\obj\Debug\net6.0\ListMoviesInheritance.csproj.AssemblyReference.cache
+C:\Users\daphn\Desktop\Projects\csharpmastery\ListMoviesInheritance\obj\Debug\net6.0\ListMoviesInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daphn\Desktop\Projects\csharpmastery\ListMoviesInheritance\obj\Debug\net6.0\ListMoviesInheritance.AssemblyInfoInputs.cache
+C:\Users\daphn\Desktop\Projects\csharpmastery\ListMoviesInheritance\obj\Debug\net6.0\ListMoviesInheritance.AssemblyInfo.cs
+C:\Users\daphn\Desktop\Projects\csharpmastery\ListMoviesInheritance\obj\Debug\net6.0\ListMoviesInheritance.csproj.CoreCompileInputs.cache
+C:\Users\daphn\Desktop\Projects\csharpmastery\ListMoviesInheritance\obj\Debug\net6.0\ListMoviesInheritance.dll
+C:\Users\daphn\Desktop\Projects\csharpmastery\ListMoviesInheritance\obj\Debug\net6.0\ref\ListMoviesInheritance.dll
+C:\Users\daphn\Desktop\Projects\csharpmastery\ListMoviesInheritance\obj\Debug\net6.0\ListMoviesInheritance.pdb
+C:\Users\daphn\Desktop\Projects\csharpmastery\ListMoviesInheritance\obj\Debug\net6.0\ListMoviesInheritance.genruntimeconfig.cache
