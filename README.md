@@ -16,6 +16,7 @@ This is a list of projects created to re-inforce learning C# concepts.
 | Project 6 - [List Movies](https://github.com/thisislink/csharpmastery#project-6---list-movies)                             |
 | Project 7 - [Friendly Robot Helper](https://github.com/thisislink/csharpmastery#project-7---friendly-robot-helper)         |
 | Project 8 - [List Movies Constructors](https://github.com/thisislink/csharpmastery#project-8---list-movies-constructors) |
+| Project 9 - [List Movies Inheritance](https://github.com/thisislink/csharpmastery#project-9---list-movies-inheritance) |
 
 ## Running the Projects
 
@@ -102,12 +103,24 @@ From a technical perspective, this app makes use of classes, specifically a sepa
 
 In this console app, you are a movie distributor and a casting director.
 
-So, you are tasked with coming up with a movie title, the year the movie will release and casting people to act in your movie(s).
+So, you are tasked with coming up with a movie title, the year the movie will release and casting people to act in your movie.
 
 <ins>Technical decisions</ins>
 
 App makes use of a separate Movie class, a Movie constructor, and a list to store a list of cast members.
 
 ![image](https://github.com/thisislink/csharpmastery/blob/main/Assets/ListMoviesConstructorsAssets/list-movies-constructors.png?raw=true)
+
+[Back to Top](https://github.com/thisislink/csharpmastery#projects)
+
+### Project 9 - List Movies Inheritance
+
+This console app is an expansion of project 8 and OOP concepts.
+
+<ins>Technical decisions</ins>
+
+App makes use of a separate abstract Movie class, classes that inherit the Movie class, a Movie constructor, and a list to store a list of cast members.
+
+![image](https://github.com/thisislink/csharpmastery/blob/main/Assets/ListMoviesInheritanceAssets/list-movies-inheritance.png?raw=true)
 
 [Back to Top](https://github.com/thisislink/csharpmastery#projects)
