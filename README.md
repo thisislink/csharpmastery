@@ -15,8 +15,9 @@ This is a list of projects created to re-inforce learning C# concepts.
 | Project 5 - [Roll Dice](https://github.com/thisislink/csharpmastery#project-5---roll-dice)                                 |
 | Project 6 - [List Movies](https://github.com/thisislink/csharpmastery#project-6---list-movies)                             |
 | Project 7 - [Friendly Robot Helper](https://github.com/thisislink/csharpmastery#project-7---friendly-robot-helper)         |
-| Project 8 - [List Movies Constructors](https://github.com/thisislink/csharpmastery#project-8---list-movies-constructors) |
-| Project 9 - [List Movies Inheritance](https://github.com/thisislink/csharpmastery#project-9---list-movies-inheritance) |
+| Project 8 - [List Movies Constructors](https://github.com/thisislink/csharpmastery#project-8---list-movies-constructors)   |
+| Project 9 - [List Movies Inheritance](https://github.com/thisislink/csharpmastery#project-9---list-movies-inheritance)     |
+| Project 10 - [Shirt Polymorphism](https://github.com/thisislink/csharpmastery#project-10---shirt-polymorphism)             |
 
 ## Running the Projects
 
@@ -119,8 +120,28 @@ This console app is an expansion of project 8 and OOP concepts.
 
 <ins>Technical decisions</ins>
 
-App makes use of a separate abstract Movie class, classes that inherit the Movie class, a Movie constructor, and a list to store a list of cast members.
+App makes use of a separate abstract Movie class, subclasses that inherit the Movie class, a Movie constructor, and a list to store a list of cast members.
 
 ![image](https://github.com/thisislink/csharpmastery/blob/main/Assets/ListMoviesInheritanceAssets/list-movies-inheritance.png?raw=true)
+
+[Back to Top](https://github.com/thisislink/csharpmastery#projects)
+
+### Project 10 - Shirt Polymorphism
+
+This console app displays different types of shirts to the screen.
+
+<ins>Technical decisions</ins>
+
+App makes use of a separate abstract Clothing class, shirt subclasses that inherit the Clothing class, a clothing color method that is overridden within the subclasses that wish to set different colors than the parent class they inherit from.
+
+The class for the short sleeve polo did not have the color method implemented, in order to show how polymorphism is working on the other shirt subclasses.
+
+#### Console Window Result
+
+![image](https://github.com/thisislink/csharpmastery/blob/main/Assets/ShirtPolymorphismAssets/shirt-polymorphism-result.png?raw=true)
+
+#### Polymorphism Implementation
+
+![image](https://github.com/thisislink/csharpmastery/blob/main/Assets/ShirtPolymorphismAssets/shirt-polymorphism-code.png?raw=true)
 
 [Back to Top](https://github.com/thisislink/csharpmastery#projects)

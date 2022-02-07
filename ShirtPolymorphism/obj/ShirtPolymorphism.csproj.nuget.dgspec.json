@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\linkdap\\OneDrive - C.H. Robinson\\Desktop\\Projects\\csharpmastery\\csharpmastery\\ListMoviesInheritance\\ListMoviesInheritance.csproj": {}
+    "C:\\Users\\linkdap\\OneDrive - C.H. Robinson\\Desktop\\Projects\\csharpmastery\\csharpmastery\\ShirtPolymorphism\\ShirtPolymorphism.csproj": {}
   },
   "projects": {
-    "C:\\Users\\linkdap\\OneDrive - C.H. Robinson\\Desktop\\Projects\\csharpmastery\\csharpmastery\\ListMoviesInheritance\\ListMoviesInheritance.csproj": {
+    "C:\\Users\\linkdap\\OneDrive - C.H. Robinson\\Desktop\\Projects\\csharpmastery\\csharpmastery\\ShirtPolymorphism\\ShirtPolymorphism.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\linkdap\\OneDrive - C.H. Robinson\\Desktop\\Projects\\csharpmastery\\csharpmastery\\ListMoviesInheritance\\ListMoviesInheritance.csproj",
-        "projectName": "ListMoviesInheritance",
-        "projectPath": "C:\\Users\\linkdap\\OneDrive - C.H. Robinson\\Desktop\\Projects\\csharpmastery\\csharpmastery\\ListMoviesInheritance\\ListMoviesInheritance.csproj",
+        "projectUniqueName": "C:\\Users\\linkdap\\OneDrive - C.H. Robinson\\Desktop\\Projects\\csharpmastery\\csharpmastery\\ShirtPolymorphism\\ShirtPolymorphism.csproj",
+        "projectName": "ShirtPolymorphism",
+        "projectPath": "C:\\Users\\linkdap\\OneDrive - C.H. Robinson\\Desktop\\Projects\\csharpmastery\\csharpmastery\\ShirtPolymorphism\\ShirtPolymorphism.csproj",
         "packagesPath": "C:\\Users\\linkdap\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\linkdap\\OneDrive - C.H. Robinson\\Desktop\\Projects\\csharpmastery\\csharpmastery\\ListMoviesInheritance\\obj\\",
+        "outputPath": "C:\\Users\\linkdap\\OneDrive - C.H. Robinson\\Desktop\\Projects\\csharpmastery\\csharpmastery\\ShirtPolymorphism\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -24,7 +24,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -32,8 +32,8 @@
           "https://artifactory.chrobinson.com/artifactory/api/nuget/release": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -44,8 +44,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
