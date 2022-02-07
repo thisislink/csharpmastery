@@ -18,6 +18,7 @@ This is a list of projects created to re-inforce learning C# concepts.
 | Project 8 - [List Movies Constructors](https://github.com/thisislink/csharpmastery#project-8---list-movies-constructors)   |
 | Project 9 - [List Movies Inheritance](https://github.com/thisislink/csharpmastery#project-9---list-movies-inheritance)     |
 | Project 10 - [Shirt Polymorphism](https://github.com/thisislink/csharpmastery#project-10---shirt-polymorphism)             |
+| Project 11 - [Simple Streaming](https://github.com/thisislink/csharpmastery#project-10---simple-streaming)                 |
 
 ## Running the Projects
 
@@ -132,7 +133,7 @@ This console app displays different types of shirts to the screen.
 
 <ins>Technical decisions</ins>
 
-App makes use of a separate abstract Clothing class, shirt subclasses that inherit the Clothing class, a clothing color method that is overridden within the subclasses that wish to set different colors than the parent class they inherit from.
+App makes use of a separate Clothing class, shirt subclasses that inherit the Clothing class, a clothing color method that is overridden within the subclasses that wish to set different colors than the parent class they inherit from.
 
 The class for the short sleeve polo did not have the color method implemented, in order to show how polymorphism is working on the other shirt subclasses.
 
@@ -143,5 +144,31 @@ The class for the short sleeve polo did not have the color method implemented, i
 #### Polymorphism Implementation
 
 ![image](https://github.com/thisislink/csharpmastery/blob/main/Assets/ShirtPolymorphismAssets/shirt-polymorphism-code.png?raw=true)
+
+[Back to Top](https://github.com/thisislink/csharpmastery#projects)
+
+### Project 11 - Simple Streaming
+
+This console app displays different features of a streaming application such as play, pause, stop, rewind, fast forward, and subtitles.
+
+<ins>Technical decisions</ins>
+
+App introduces the concept of interface and combines previous OOP concepts demonstrated in previous projects.
+
+App makes use of the following:
+
+- Musicals class that implements the declared interfaces
+- 2 interface classes that declare methods to be implemented and used by the subclasses
+- Different genres of musical subclasses that inherit the Musicals class and one or both of the interface classes
+
+Only the drama musicals subclass implements the language interface methods, in order to show how usage of interfaces and OOP concepts are working together.
+
+#### Console Window Result
+
+![image](https://github.com/thisislink/csharpmastery/blob/main/Assets/SimpleStreamingAssets/simple-streaming-result.png?raw=true)
+
+#### Interface Implementations
+
+![image](https://github.com/thisislink/csharpmastery/blob/main/Assets/SimpleStreamingAssets/simple-streaming-code.png?raw=true)
 
 [Back to Top](https://github.com/thisislink/csharpmastery#projects)
