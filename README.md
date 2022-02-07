@@ -153,12 +153,12 @@ This console app displays different features of a streaming application such as 
 
 <ins>Technical decisions</ins>
 
-App introduces the concept of interface and combines previous OOP concepts demonstrated in previous projects.
+App introduces the concept of interfaces and combines previous OOP concepts demonstrated in previous projects.
 
 App makes use of the following:
 
 - Musicals class that implements the declared interfaces
-- 2 interface classes that declare methods to be implemented and used by the subclasses
+- Two interface classes that declare methods to be implemented and used by the subclasses
 - Different genres of musical subclasses that inherit the Musicals class and one or both of the interface classes
 
 Only the drama musicals subclass implements the language interface methods, in order to show how usage of interfaces and OOP concepts are working together.
