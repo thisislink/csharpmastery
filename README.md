@@ -18,7 +18,7 @@ This is a list of projects created to re-inforce learning C# concepts.
 | Project 8 - [List Movies Constructors](https://github.com/thisislink/csharpmastery#project-8---list-movies-constructors)   |
 | Project 9 - [List Movies Inheritance](https://github.com/thisislink/csharpmastery#project-9---list-movies-inheritance)     |
 | Project 10 - [Shirt Polymorphism](https://github.com/thisislink/csharpmastery#project-10---shirt-polymorphism)             |
-| Project 11 - [Simple Streaming](https://github.com/thisislink/csharpmastery#project-10---simple-streaming)                 |
+| Project 11 - [Simple Streaming](https://github.com/thisislink/csharpmastery#project-11---simple-streaming)                 |
 
 ## Running the Projects
 
