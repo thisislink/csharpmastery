@@ -2,6 +2,8 @@
 
 Repo to brush up on C# using the C# YouTube course by [Bro Code](https://www.youtube.com/watch?v=wxznTygnRfQ)
 
+{% octicon "light-bulb-24" aria-label="The light bulb icon" %} Looking for Data Structures projects? Check out this [README](https://github.com/thisislink/csharpmastery/blob/main/DataStructuresREADME.md)
+
 ## Projects
 
 This is a list of projects created to re-inforce learning C# concepts.
