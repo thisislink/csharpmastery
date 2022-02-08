@@ -6,15 +6,16 @@ Project based repo to understand and use Data Structures.
 
 This is a list of projects created to re-inforce learning Data Structures in C#.
 
-| Table of Contents             |
-| ----------------------------- |
-| Project 1 - [Stacks]()        |
-| Project 2 - [Queues]()        |
-| Project 3 - [Linked Lists](h) |
-| Project 4 - [HashTables]()    |
-| Project 5 - [HashSet]()       |
-| Project 6 - [Trees]()         |
-| Project 7 - [Graphs]()        |
+| Table of Contents                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------- |
+| Project 1 - [Stacks](https://github.com/thisislink/csharpmastery/blob/main/DataStructuresREADME.md#project-1---stacks)             |
+| Project 2 - [Queues](https://github.com/thisislink/csharpmastery/blob/main/DataStructuresREADME.md#project-2---queues)             |
+| Project 3 - [Linked Lists](https://github.com/thisislink/csharpmastery/blob/main/DataStructuresREADME.md#project-3---linked-lists) |
+| Project 4 - [HashTables](https://github.com/thisislink/csharpmastery/blob/main/DataStructuresREADME.md#project-4---hashtables)     |
+| Project 5 - [HashSets](https://github.com/thisislink/csharpmastery/blob/main/DataStructuresREADME.md#project-5---hashsets)         |
+| Project 6 - [Trees](https://github.com/thisislink/csharpmastery/blob/main/DataStructuresREADME.md#project-6---trees)               |
+| Project 7 - [Graphs](https://github.com/thisislink/csharpmastery/blob/main/DataStructuresREADME.md#project-7---graphs)             |
+| C# Mastery - [Project Based Learning](https://github.com/thisislink/csharpmastery)                                                 |
 
 ## Running the Projects
 
@@ -35,8 +36,13 @@ This is a list of projects created to re-inforce learning Data Structures in C#.
 
 ### Project 1 - Stacks
 
-This is...
+This is a console app that lets a user create a stack of books, add books to the stack, remove books from the stack, and display the stack of books.
 
-![image]()
+<ins>Technical decisions</ins>
+App uses the generic Stack class and its pre-defined methods (push, pop, and peek) to introduce the concept and usage of stacks.
 
-[Back to Top](https://github.com/thisislink/csharpmastery#projects)
+Also implemented a custom display method to show the list of books.
+
+![image](https://github.com/thisislink/csharpmastery/tree/main/DataStructures/Stacks/Assets/StacksAssets/stacks-books.png?raw=true)
+
+[Back to Top](https://github.com/thisislink/csharpmastery/blob/main/DataStructuresREADME.md#projects)
