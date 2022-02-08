@@ -6,19 +6,20 @@ Repo to brush up on C# using the C# YouTube course by [Bro Code](https://www.you
 
 This is a list of projects created to re-inforce learning C# concepts.
 
-| Table of Contents                                                                                                          |
-| -------------------------------------------------------------------------------------------------------------------------- |
-| Project 1 - [Hello Daphne](https://github.com/thisislink/csharpmastery#project-1---hello-daphne)                           |
-| Project 2 - [Greeter](https://github.com/thisislink/csharpmastery#project-2---greeter)                                     |
-| Project 3 - [Simple Birthday Countdown](https://github.com/thisislink/csharpmastery#project-3---simple-birthday-countdown) |
-| Project 4 - [Random Numbers](https://github.com/thisislink/csharpmastery#project-4---random-numbers)                       |
-| Project 5 - [Roll Dice](https://github.com/thisislink/csharpmastery#project-5---roll-dice)                                 |
-| Project 6 - [List Movies](https://github.com/thisislink/csharpmastery#project-6---list-movies)                             |
-| Project 7 - [Friendly Robot Helper](https://github.com/thisislink/csharpmastery#project-7---friendly-robot-helper)         |
-| Project 8 - [List Movies Constructors](https://github.com/thisislink/csharpmastery#project-8---list-movies-constructors)   |
-| Project 9 - [List Movies Inheritance](https://github.com/thisislink/csharpmastery#project-9---list-movies-inheritance)     |
-| Project 10 - [Shirt Polymorphism](https://github.com/thisislink/csharpmastery#project-10---shirt-polymorphism)             |
-| Project 11 - [Simple Streaming](https://github.com/thisislink/csharpmastery#project-10---simple-streaming)                 |
+| Table of Contents                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------------------- |
+| Project 1 - [Hello Daphne](https://github.com/thisislink/csharpmastery#project-1---hello-daphne)                                       |
+| Project 2 - [Greeter](https://github.com/thisislink/csharpmastery#project-2---greeter)                                                 |
+| Project 3 - [Simple Birthday Countdown](https://github.com/thisislink/csharpmastery#project-3---simple-birthday-countdown)             |
+| Project 4 - [Random Numbers](https://github.com/thisislink/csharpmastery#project-4---random-numbers)                                   |
+| Project 5 - [Roll Dice](https://github.com/thisislink/csharpmastery#project-5---roll-dice)                                             |
+| Project 6 - [List Movies](https://github.com/thisislink/csharpmastery#project-6---list-movies)                                         |
+| Project 7 - [Friendly Robot Helper](https://github.com/thisislink/csharpmastery#project-7---friendly-robot-helper)                     |
+| Project 8 - [List Movies Constructors](https://github.com/thisislink/csharpmastery#project-8---list-movies-constructors)               |
+| Project 9 - [List Movies Inheritance](https://github.com/thisislink/csharpmastery#project-9---list-movies-inheritance)                 |
+| Project 10 - [Shirt Polymorphism](https://github.com/thisislink/csharpmastery#project-10---shirt-polymorphism)                         |
+| Project 11 - [Simple Streaming](https://github.com/thisislink/csharpmastery#project-11---simple-streaming)                             |
+| Project 12 - [Simple Streaming Encapsulation](https://github.com/thisislink/csharpmastery#project-12---simple-streaming-encapsulation) |
 
 ## Running the Projects
 
@@ -170,5 +171,23 @@ Only the drama musicals subclass implements the language interface methods, in o
 #### Interface Implementations
 
 ![image](https://github.com/thisislink/csharpmastery/blob/main/Assets/SimpleStreamingAssets/simple-streaming-code.png?raw=true)
+
+[Back to Top](https://github.com/thisislink/csharpmastery#projects)
+
+### Project 12 - Simple Streaming Encapsulation
+
+This console app is an expansion of project 10 in order to include the concept of encapsulation.
+
+<ins>Technical decisions</ins>
+
+App introduces the concept of encapsulation through the use of getters and setters.
+
+Only one getter and setter was implemented to introduce the idea.
+
+The movie title was made private, as it should be not be publically accessible and should be immutable.
+
+#### Encapsulation Implementation
+
+![image](https://github.com/thisislink/csharpmastery/blob/main/Assets/SimpleStreamingEncapsulationAssets/simple-streaming-encapsulation-code.png?raw=true)
 
 [Back to Top](https://github.com/thisislink/csharpmastery#projects)
