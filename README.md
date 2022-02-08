@@ -176,7 +176,7 @@ Only the drama musicals subclass implements the language interface methods, in o
 
 ### Project 12 - Simple Streaming Encapsulation
 
-This console app is an expansion of project 10 in order to include the concept of encapsulation.
+This console app is an expansion of project 11 in order to include the concept of encapsulation.
 
 <ins>Technical decisions</ins>
 
