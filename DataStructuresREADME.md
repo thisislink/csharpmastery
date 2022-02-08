@@ -15,7 +15,7 @@ This is a list of projects created to re-inforce learning Data Structures in C#.
 | Project 5 - [HashSets](https://github.com/thisislink/csharpmastery/blob/main/DataStructuresREADME.md#project-5---hashsets)         |
 | Project 6 - [Trees](https://github.com/thisislink/csharpmastery/blob/main/DataStructuresREADME.md#project-6---trees)               |
 | Project 7 - [Graphs](https://github.com/thisislink/csharpmastery/blob/main/DataStructuresREADME.md#project-7---graphs)             |
-| C# Mastery - [Project Based Learning](https://github.com/thisislink/csharpmastery)                                                 |
+| C# Mastery - [Project Based Learning](https://github.com/thisislink/csharpmastery#c-mastery)                                                 |
 
 ## Running the Projects
 
