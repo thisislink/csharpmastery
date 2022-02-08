@@ -1,0 +1,15 @@
+C:\Users\daphn\Desktop\Projects\csharpmastery\DataStructures\Stacks\bin\Debug\net6.0\Stacks.exe
+C:\Users\daphn\Desktop\Projects\csharpmastery\DataStructures\Stacks\bin\Debug\net6.0\Stacks.deps.json
+C:\Users\daphn\Desktop\Projects\csharpmastery\DataStructures\Stacks\bin\Debug\net6.0\Stacks.runtimeconfig.json
+C:\Users\daphn\Desktop\Projects\csharpmastery\DataStructures\Stacks\bin\Debug\net6.0\Stacks.dll
+C:\Users\daphn\Desktop\Projects\csharpmastery\DataStructures\Stacks\bin\Debug\net6.0\ref\Stacks.dll
+C:\Users\daphn\Desktop\Projects\csharpmastery\DataStructures\Stacks\bin\Debug\net6.0\Stacks.pdb
+C:\Users\daphn\Desktop\Projects\csharpmastery\DataStructures\Stacks\obj\Debug\net6.0\Stacks.csproj.AssemblyReference.cache
+C:\Users\daphn\Desktop\Projects\csharpmastery\DataStructures\Stacks\obj\Debug\net6.0\Stacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daphn\Desktop\Projects\csharpmastery\DataStructures\Stacks\obj\Debug\net6.0\Stacks.AssemblyInfoInputs.cache
+C:\Users\daphn\Desktop\Projects\csharpmastery\DataStructures\Stacks\obj\Debug\net6.0\Stacks.AssemblyInfo.cs
+C:\Users\daphn\Desktop\Projects\csharpmastery\DataStructures\Stacks\obj\Debug\net6.0\Stacks.csproj.CoreCompileInputs.cache
+C:\Users\daphn\Desktop\Projects\csharpmastery\DataStructures\Stacks\obj\Debug\net6.0\Stacks.dll
+C:\Users\daphn\Desktop\Projects\csharpmastery\DataStructures\Stacks\obj\Debug\net6.0\ref\Stacks.dll
+C:\Users\daphn\Desktop\Projects\csharpmastery\DataStructures\Stacks\obj\Debug\net6.0\Stacks.pdb
+C:\Users\daphn\Desktop\Projects\csharpmastery\DataStructures\Stacks\obj\Debug\net6.0\Stacks.genruntimeconfig.cache
