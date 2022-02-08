@@ -43,6 +43,6 @@ App uses the generic Stack class and its pre-defined methods (push, pop, and pee
 
 Also implemented a custom display method to show the list of books.
 
-![image](https://github.com/thisislink/csharpmastery/tree/main/DataStructures/Stacks/Assets/StacksAssets/stacks-books.png?raw=true)
+![image](https://github.com/thisislink/csharpmastery/blob/main/DataStructures/Assets/StacksAssets/stacks-books.png?raw=true)
 
 [Back to Top](https://github.com/thisislink/csharpmastery/blob/main/DataStructuresREADME.md#projects)
