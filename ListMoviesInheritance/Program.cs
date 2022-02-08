@@ -89,48 +89,47 @@ namespace MyApp // Note: actual namespace depends on the project name.
                         if (genreSelected == 1)
                         {
                             comedyMovie.AddCastMember(newCastMember);
-                            break;
                         }
                         else if (genreSelected == 2)
                         {
                             dramaMovie.AddCastMember(newCastMember);
-                            break;
                         }
                         else if (genreSelected == 3)
                         {
                             horrorMovie.AddCastMember(newCastMember);
-                            break;
                         }
                         else if (genreSelected == 4)
                         {
                             familyMovie.AddCastMember(newCastMember);
-                            break;
                         }
                         break;
                     case "N":
-                        Console.WriteLine($"Your movie \"{movieTitle}\" will be released in {releaseYear}.");
-                        Console.WriteLine("Here's the people who are cast in your movie:");
-                        //movie.DisplayCastMembers();
+                        createMovies = false;
                         if (genreSelected == 1)
                         {
+                            Console.WriteLine($"Your movie \"{movieTitle}\" is a {comedyMovie.genre} movie and will be released in {releaseYear}.");
+                            Console.WriteLine("Here's the people who are cast in your movie:");
                             comedyMovie.DisplayCastMembers();
-
                         }
                         else if (genreSelected == 2)
                         {
+                            Console.WriteLine($"Your movie \"{movieTitle}\" is a {dramaMovie.genre} movie and  will be released in {releaseYear}.");
+                            Console.WriteLine("Here's the people who are cast in your movie:");
                             dramaMovie.DisplayCastMembers();
-
                         }
                         else if (genreSelected == 3)
                         {
+                            Console.WriteLine($"Your movie \"{movieTitle}\" is a {horrorMovie.genre} movie and will be released in {releaseYear}.");
+                            Console.WriteLine("Here's the people who are cast in your movie:");
                             horrorMovie.DisplayCastMembers();
-
                         }
                         else if (genreSelected == 4)
                         {
-                            familyMovie.DisplayCastMembers();
+                            Console.WriteLine($"Your movie \"{movieTitle}\" is a {familyMovie.genre} movie and will be released in {releaseYear}.");
+                            Console.WriteLine("Here's the people who are cast in your movie:");
+                            horrorMovie.DisplayCastMembers();
                         }
-                        createMovies = false;
+                        
                         break;
                     default:
                         Console.WriteLine("Invalid entry. Try again.");
