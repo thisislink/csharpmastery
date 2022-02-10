@@ -47,7 +47,6 @@ namespace Queues // Note: actual namespace depends on the project name.
                         Console.WriteLine($"{PeekAtQueue(_line)} is the first person in line.");
                         break;
                     case 4:
-                        Console.WriteLine($"Number of people waiting in line: {_line.Count} \nList of people:");
                         ShowPeopleLine(_line);
                         break;
                     case 5:
@@ -81,6 +80,7 @@ namespace Queues // Note: actual namespace depends on the project name.
 
         public static void ShowPeopleLine(Queue<string> _line)
         {
+            Console.WriteLine($"Number of people waiting in line: {_line.Count} \nList of people:");
             foreach (String line in _line)
             {
                 Console.WriteLine(line);
