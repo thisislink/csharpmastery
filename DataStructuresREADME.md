@@ -2,6 +2,8 @@
 
 Project based repo to understand and use Data Structures.
 
+:star2: Looking to learn C# in a project based way? Check out this [README](https://github.com/thisislink/csharpmastery#c-mastery)
+
 ## Projects
 
 This is a list of projects created to re-inforce learning Data Structures in C#.
@@ -15,7 +17,7 @@ This is a list of projects created to re-inforce learning Data Structures in C#.
 | Project 5 - [HashSets](https://github.com/thisislink/csharpmastery/blob/main/DataStructuresREADME.md#project-5---hashsets)         |
 | Project 6 - [Trees](https://github.com/thisislink/csharpmastery/blob/main/DataStructuresREADME.md#project-6---trees)               |
 | Project 7 - [Graphs](https://github.com/thisislink/csharpmastery/blob/main/DataStructuresREADME.md#project-7---graphs)             |
-| C# Mastery - [Project Based Learning](https://github.com/thisislink/csharpmastery#c-mastery)                                                 |
+| C# Mastery - [Project Based Learning](https://github.com/thisislink/csharpmastery#c-mastery)                                       |
 
 ## Running the Projects
 
@@ -39,9 +41,24 @@ This is a list of projects created to re-inforce learning Data Structures in C#.
 This is a console app that lets a user create a stack of books, add books to the stack, remove books from the stack, and display the stack of books.
 
 <ins>Technical decisions</ins>
+
 App uses the generic Stack class and its pre-defined methods (push, pop, and peek) to introduce the concept and usage of stacks.
 
 Also implemented a custom display method to show the list of books.
+
+![image](https://github.com/thisislink/csharpmastery/blob/main/DataStructures/Assets/StacksAssets/stacks-books.png?raw=true)
+
+[Back to Top](https://github.com/thisislink/csharpmastery/blob/main/DataStructuresREADME.md#projects)
+
+### Project 2 - Queues
+
+This is a console app that lets a user start a line for waiting to represent a queue. You can add people to the end of the line, remove from the front of the line, see who is the first person in line, and display the names of people in the line.
+
+<ins>Technical decisions</ins>
+
+App uses the generic Queue class and its pre-defined methods (enqueue, dequeue, and peek) to introduce the concept and usage of stacks.
+
+Also implemented a custom display method to show the people waiting in line and the count of people in line.
 
 ![image](https://github.com/thisislink/csharpmastery/blob/main/DataStructures/Assets/StacksAssets/stacks-books.png?raw=true)
 
