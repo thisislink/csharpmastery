@@ -60,6 +60,6 @@ App uses the generic Queue class and its pre-defined methods (enqueue, dequeue, 
 
 Also implemented a custom display method to show the people waiting in line and the count of people in line.
 
-![image](https://github.com/thisislink/csharpmastery/blob/main/DataStructures/Assets/StacksAssets/stacks-books.png?raw=true)
+![image](https://github.com/thisislink/csharpmastery/blob/main/DataStructures/Assets/QueuesAssets/queues-line.png?raw=true)
 
 [Back to Top](https://github.com/thisislink/csharpmastery/blob/main/DataStructuresREADME.md#projects)
